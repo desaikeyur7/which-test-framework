@@ -24,15 +24,15 @@
 
 ## Locators and functions
 
-> Locators are defined in the first half of a page object file in src > pageObject > pageObjectFileName.js file
+> Locators are defined in the first half of a page object file in **src > pageObject > pageObjectFileName.js** file
 
-> Functions are defined in the second half of a page object file in src > pageObject > pageObjectFileName.js file
+> Functions are defined in the second half of a page object file in **src > pageObject > pageObjectFileName.js** file
 
 ## Features and Scenarios
-> Features and Scenarios are defined in src > features > FeatureName.js file
+> Features and Scenarios are defined in **src > features > FeatureName.feature** file
 
 ## Step Definitions
-> Step Definitions are defined in src > stepDefs > stepDefinitionFileName.feature
+> Step Definitions are defined in **src > stepDefs > stepDefinitionFileName.StepDefs.feature** file
 
 > Step Definitions allow reusability of code and makes the framework less complicated to read
 
@@ -43,7 +43,7 @@
 
 > Allure reports enables to determine the step a test has failed, provides screenshots and also displays a comparasion of tests run to tests passed percentage
 
-## Screenshot of an allure report
-[Allure Report.pdf](https://github.com/desaikeyur7/which-test-framework/files/4708034/Allure.Report.pdf)
+## Screenshots for allure report
+![Allure_Report Overview](https://user-images.githubusercontent.com/30195677/83359384-d5186880-a371-11ea-9067-1663ab6b2394.png)
 
-[Allure Report Graph.pdf](https://github.com/desaikeyur7/which-test-framework/files/4708038/Allure.Report.Graph.pdf)
+![Allure_Report Graphs](https://user-images.githubusercontent.com/30195677/83359394-e3668480-a371-11ea-9325-753efea9c6f7.png)

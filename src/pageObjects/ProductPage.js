@@ -2,7 +2,8 @@ class ProductPage {
     /*
       define page locators
    */
-
+  
+  // "Heading" for product page
    get heading() {
       return browser.$('[data-test-element="name"]');
    }
