@@ -24,9 +24,9 @@
 
 ## Locators and functions
 
-> Locators are defined in the first half of a page object file in **src > pageObject > pageObjectFileName.js** file
+> Locators are defined in the first half of a page object file in **src > pageObjects > pageObjectFileName.js** file
 
-> Functions are defined in the second half of a page object file in **src > pageObject > pageObjectFileName.js** file
+> Functions are defined in the second half of a page object file in **src > pageObjects > pageObjectFileName.js** file
 
 ## Features and Scenarios
 > Features and Scenarios are defined in **src > features > FeatureName.feature** file
