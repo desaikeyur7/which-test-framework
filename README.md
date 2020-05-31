@@ -42,3 +42,8 @@
 > I have used Allure Reporting as this is an efficient way of degugging failed tests
 
 > Allure reports enables to determine the step a test has failed, provides screenshots and also displays a comparasion of tests run to tests passed percentage
+
+## Screenshot of an allure report
+[Allure Report.pdf](https://github.com/desaikeyur7/which-test-framework/files/4708034/Allure.Report.pdf)
+
+[Allure Report Graph.pdf](https://github.com/desaikeyur7/which-test-framework/files/4708038/Allure.Report.Graph.pdf)
